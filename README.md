@@ -1,1 +1,3 @@
-Esto es un reto del curso de Manipulación del DOM de platzi
+# avos
+
+Reto #1 Curso manipulación del DOM de Platzi
