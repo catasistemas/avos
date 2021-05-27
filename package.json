@@ -1,4 +1,5 @@
 {
+  "homepage": "http://catasistemas.github.io/avos",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
