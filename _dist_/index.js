@@ -1,5 +1,5 @@
 const baseUrl = "https://platzi-avo.vercel.app";
-const appMount = document.querySelector("#app");
+const appMount = document.getElementById("app");
 
 //Usaremos la api int para darle formato a los precios
 
